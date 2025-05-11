@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="title">Welcome to My Page</h1>
+    <p id="intro">This is a paragraph styled with an ID selector.</p>
+    <img src="https://via.placeholder.com/200" alt="Sample Image" class="styled-image">
+    
+    <div class="box">
+        <p>This box demonstrates margin, padding, and borders.</p>
+    </div>
+</body>
+</html>
